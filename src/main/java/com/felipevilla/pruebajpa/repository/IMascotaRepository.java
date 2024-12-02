@@ -1,0 +1,1 @@
+package com.felipevilla.pruebajpa.repository;public interface IMascotaRepository {}

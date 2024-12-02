@@ -1,0 +1,1 @@
+package com.felipevilla.pruebajpa.model;public class Mascota {}

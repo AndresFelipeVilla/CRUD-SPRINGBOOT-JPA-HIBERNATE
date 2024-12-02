@@ -1,0 +1,1 @@
+package com.felipevilla.pruebajpa.service;public class MascotaService {}
